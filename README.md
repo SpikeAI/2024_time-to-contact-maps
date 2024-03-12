@@ -20,10 +20,10 @@ For more information and more open-source software please visit the neuromorphic
 
 # Datasets
 
-We provide all the sequences evaluated in the paper ready to be used: [VL](https://spik.xyz/nc/index.php/s/ER6GMim9qPQRxaF) (104.2MB) or run on a terminal
+We provide all the sequences evaluated in the paper ready to be used: [VL](https://figshare.com/ndownloader/files/44987794) (104.2MB) or run on a terminal
 
 ```bash
-wget --header 'Host: spik.xyz' --header 'Sec-GPC: 1' 'https://spik.xyz/nc/index.php/s/ER6GMim9qPQRxaF/download/VL.zip' --output-document 'VL.zip'
+wget https://figshare.com/ndownloader/files/44987794 --output-document 'VL.zip'
 ```
 
 The original data can be found [here](https://github.com/s-mcleod/ventral-landing-event-dataset).
